@@ -1,0 +1,373 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Games\\Unity\\Niss_Gueranger\\Assembly-CSharp-Editor.csproj": {}
+  },
+  "projects": {
+    "D:\\Games\\Unity\\Niss_Gueranger\\Assembly-CSharp-Editor.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Games\\Unity\\Niss_Gueranger\\Assembly-CSharp-Editor.csproj",
+        "projectName": "Assembly-CSharp-Editor",
+        "projectPath": "D:\\Games\\Unity\\Niss_Gueranger\\Assembly-CSharp-Editor.csproj",
+        "packagesPath": "C:\\Users\\theog\\.nuget\\packages\\",
+        "outputPath": "D:\\Games\\Unity\\Niss_Gueranger\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\theog\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "D:\\Games\\Unity\\Niss_Gueranger\\Assembly-CSharp.csproj": {
+                "projectPath": "D:\\Games\\Unity\\Niss_Gueranger\\Assembly-CSharp.csproj"
+              },
+              "D:\\Games\\Unity\\Niss_Gueranger\\NavMeshComponents.csproj": {
+                "projectPath": "D:\\Games\\Unity\\Niss_Gueranger\\NavMeshComponents.csproj"
+              },
+              "D:\\Games\\Unity\\Niss_Gueranger\\NavMeshComponentsEditor.csproj": {
+                "projectPath": "D:\\Games\\Unity\\Niss_Gueranger\\NavMeshComponentsEditor.csproj"
+              },
+              "D:\\Games\\Unity\\Niss_Gueranger\\NavMeshComponentsExamples.csproj": {
+                "projectPath": "D:\\Games\\Unity\\Niss_Gueranger\\NavMeshComponentsExamples.csproj"
+              },
+              "D:\\Games\\Unity\\Niss_Gueranger\\NavMeshComponentsExamplesEditor.csproj": {
+                "projectPath": "D:\\Games\\Unity\\Niss_Gueranger\\NavMeshComponentsExamplesEditor.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Games\\Unity\\Niss_Gueranger\\Assembly-CSharp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Games\\Unity\\Niss_Gueranger\\Assembly-CSharp.csproj",
+        "projectName": "Assembly-CSharp",
+        "projectPath": "D:\\Games\\Unity\\Niss_Gueranger\\Assembly-CSharp.csproj",
+        "packagesPath": "C:\\Users\\theog\\.nuget\\packages\\",
+        "outputPath": "D:\\Games\\Unity\\Niss_Gueranger\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\theog\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "D:\\Games\\Unity\\Niss_Gueranger\\NavMeshComponents.csproj": {
+                "projectPath": "D:\\Games\\Unity\\Niss_Gueranger\\NavMeshComponents.csproj"
+              },
+              "D:\\Games\\Unity\\Niss_Gueranger\\NavMeshComponentsEditor.csproj": {
+                "projectPath": "D:\\Games\\Unity\\Niss_Gueranger\\NavMeshComponentsEditor.csproj"
+              },
+              "D:\\Games\\Unity\\Niss_Gueranger\\NavMeshComponentsExamples.csproj": {
+                "projectPath": "D:\\Games\\Unity\\Niss_Gueranger\\NavMeshComponentsExamples.csproj"
+              },
+              "D:\\Games\\Unity\\Niss_Gueranger\\NavMeshComponentsExamplesEditor.csproj": {
+                "projectPath": "D:\\Games\\Unity\\Niss_Gueranger\\NavMeshComponentsExamplesEditor.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Games\\Unity\\Niss_Gueranger\\NavMeshComponents.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Games\\Unity\\Niss_Gueranger\\NavMeshComponents.csproj",
+        "projectName": "NavMeshComponents",
+        "projectPath": "D:\\Games\\Unity\\Niss_Gueranger\\NavMeshComponents.csproj",
+        "packagesPath": "C:\\Users\\theog\\.nuget\\packages\\",
+        "outputPath": "D:\\Games\\Unity\\Niss_Gueranger\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\theog\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Games\\Unity\\Niss_Gueranger\\NavMeshComponentsEditor.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Games\\Unity\\Niss_Gueranger\\NavMeshComponentsEditor.csproj",
+        "projectName": "NavMeshComponentsEditor",
+        "projectPath": "D:\\Games\\Unity\\Niss_Gueranger\\NavMeshComponentsEditor.csproj",
+        "packagesPath": "C:\\Users\\theog\\.nuget\\packages\\",
+        "outputPath": "D:\\Games\\Unity\\Niss_Gueranger\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\theog\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "D:\\Games\\Unity\\Niss_Gueranger\\NavMeshComponents.csproj": {
+                "projectPath": "D:\\Games\\Unity\\Niss_Gueranger\\NavMeshComponents.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Games\\Unity\\Niss_Gueranger\\NavMeshComponentsExamples.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Games\\Unity\\Niss_Gueranger\\NavMeshComponentsExamples.csproj",
+        "projectName": "NavMeshComponentsExamples",
+        "projectPath": "D:\\Games\\Unity\\Niss_Gueranger\\NavMeshComponentsExamples.csproj",
+        "packagesPath": "C:\\Users\\theog\\.nuget\\packages\\",
+        "outputPath": "D:\\Games\\Unity\\Niss_Gueranger\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\theog\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "D:\\Games\\Unity\\Niss_Gueranger\\NavMeshComponents.csproj": {
+                "projectPath": "D:\\Games\\Unity\\Niss_Gueranger\\NavMeshComponents.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Games\\Unity\\Niss_Gueranger\\NavMeshComponentsExamplesEditor.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Games\\Unity\\Niss_Gueranger\\NavMeshComponentsExamplesEditor.csproj",
+        "projectName": "NavMeshComponentsExamplesEditor",
+        "projectPath": "D:\\Games\\Unity\\Niss_Gueranger\\NavMeshComponentsExamplesEditor.csproj",
+        "packagesPath": "C:\\Users\\theog\\.nuget\\packages\\",
+        "outputPath": "D:\\Games\\Unity\\Niss_Gueranger\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\theog\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "D:\\Games\\Unity\\Niss_Gueranger\\NavMeshComponentsExamples.csproj": {
+                "projectPath": "D:\\Games\\Unity\\Niss_Gueranger\\NavMeshComponentsExamples.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
